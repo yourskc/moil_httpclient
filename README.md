@@ -7,7 +7,7 @@ MOIL HTTP Server   ---->  MOIL HTTP Client
 
 
 <br/><br/>
-<img src="images/panorama.jpg" width="500px">
+<img src="images/panorama.jpg" width="500px"><br/>
 example acquired panorama.jpg
 
 ## 1. Requirement
