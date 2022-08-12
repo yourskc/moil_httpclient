@@ -35,7 +35,7 @@ example acquired panorama.jpg
 
 ## 3. MOIL Http Server
 
-Please reference the repo, 
+For protocol, please reference the repo, 
 
 https://github.com/yourskc/moil_httpserver
 
